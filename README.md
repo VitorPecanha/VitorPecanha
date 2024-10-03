@@ -5,3 +5,5 @@
 - 📫 How to reach me: vitor.pecanha@usp.br; linkedin.com/in/vitorcontieri;
 
 Feel free to send me a message about some project :)
+
+[![An image of @vitorpecanha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vitorpecanha)](https://holopin.io/@vitorpecanha)
